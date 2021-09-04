@@ -19,7 +19,9 @@ Mobile Version
 
 ![](./Mobile-screenshot.png)
 
--   [Live site URL](https://your-live-site-url.com)
+### Link
+
+-   [Live site URL](https://tathanhdat.github.io/single-price-grid-component/)
 
 ### Built with
 
@@ -27,14 +29,11 @@ Mobile Version
 -   CSS custom properties
 -   Flexbox
 -   CSS Grid
--   Mobile-first workflow
--   [React](https://reactjs.org/) - JS library
--   [Next.js](https://nextjs.org/) - React framework
--   [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
 How to style this:
+
 ![](./screenshot.png)
 
 ```css
